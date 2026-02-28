@@ -16,5 +16,8 @@
 } 
 
 .caja-2 { 
-    background-color: #FFD700; /* Color amarillo para diferenciarla */
+    background-color: #FFD700;
+    position: relative;
+    top: 30px;
+    left: 50px;
 }
