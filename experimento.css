@@ -17,7 +17,6 @@
 
 .caja-2 { 
     background-color: #FFD700;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
+    position: sticky;
+    top: 0;
 }
